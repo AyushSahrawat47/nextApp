@@ -26,6 +26,5 @@ async function dbConnect(): Promise<void>{
     }
 }
 
-dbConnect();
 
-// export default dbConnect;
+export default dbConnect;
